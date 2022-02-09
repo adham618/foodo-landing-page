@@ -19,7 +19,7 @@ A Landing Page Usign Next JS && TypeScript && Tailwind CSS For Food Delivery App
 
 - **NextJs**: ReactJs Framework
 
-- **TailwindCss**: CSS Framework
+- **React-Bootstrap**: CSS Framework
 
 - **Prettier** Code formatter
 
