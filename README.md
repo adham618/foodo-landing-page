@@ -1,5 +1,7 @@
 # Foodo LandingPage
 
+## Preview
+
 ![screenshot-2](https://user-images.githubusercontent.com/88515844/153203836-78dca78e-73fa-4973-908f-cfe1cf8014df.png)
 ![screenshot](https://user-images.githubusercontent.com/88515844/153203847-e38a508d-1887-43db-abc0-e896a7002e58.png)
 
