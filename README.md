@@ -1,4 +1,4 @@
-# Foodo LandingPage
+# Foodo Landing Page
 
 ## Preview
 
