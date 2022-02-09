@@ -1,7 +1,7 @@
 # Foodo LandingPage
 
-![screenshot2](https://user-images.githubusercontent.com/88515844/1487874-91105a18-934b-4b55-b5c8-9b66fd9c6c91.png)
-![screenshot3](https://user-images.githubusercontent.com/88515844/1487887-b58e0124-8f52-4f17-b0bf-9e924b0cb14f.png)
+![screenshot-2](https://user-images.githubusercontent.com/88515844/153203836-78dca78e-73fa-4973-908f-cfe1cf8014df.png)
+![screenshot](https://user-images.githubusercontent.com/88515844/153203847-e38a508d-1887-43db-abc0-e896a7002e58.png)
 
 ## **[Live Demo](https://instagram-clone-ruddy.vercel.app/)**
 
