@@ -9,7 +9,7 @@
 
 ## Introduction
 
-A Landing Page Usign Next JS && TypeScript && Tailwind CSS For Food Delivery App
+A Landing Page Usign Next JS && TypeScript && React-Bootstrap For Food Delivery App
 
 ## Codebase
 
